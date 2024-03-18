@@ -1,15 +1,8 @@
-﻿
-namespace RendaFixaPro.Tests.Validators;
+﻿namespace RendaFixaPro.Tests.Validators;
 
 public class InvestmentDataValidatorTests
 {
-    private readonly InvestmentDataValidator _validator;
-
-    public InvestmentDataValidatorTests()
-    {
-        var mocker = new AutoMoqer();
-        _validator = mocker.Create<InvestmentDataValidator>();
-    }
+    private readonly InvestmentDataValidator _validator = new InvestmentDataValidator();
 
     [Theory]
     [InlineData(0)]

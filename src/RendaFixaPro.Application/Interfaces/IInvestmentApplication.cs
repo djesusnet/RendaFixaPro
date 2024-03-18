@@ -4,5 +4,5 @@ namespace RendaFixaPro.Application.Interfaces;
 
 public interface IInvestmentApplication
 {
-    decimal CalculateFinalValue(InvestmentDataDto investmentDataDto);
+    (decimal GrossValue, decimal NetValue) CalculateFinalValue(InvestmentDataDto investmentDataDto);
 }

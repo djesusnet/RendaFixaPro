@@ -153,8 +153,6 @@ D:\repo\projects\RendaFixaPro\tests\RendaFixaPro.Tests\bin\Debug\net8.0\RendaFix
 D:\repo\projects\RendaFixaPro\tests\RendaFixaPro.Tests\bin\Debug\net8.0\RendaFixaPro.Tests.runtimeconfig.json
 D:\repo\projects\RendaFixaPro\tests\RendaFixaPro.Tests\bin\Debug\net8.0\RendaFixaPro.Tests.dll
 D:\repo\projects\RendaFixaPro\tests\RendaFixaPro.Tests\bin\Debug\net8.0\RendaFixaPro.Tests.pdb
-D:\repo\projects\RendaFixaPro\tests\RendaFixaPro.Tests\bin\Debug\net8.0\AutoMoq.dll
-D:\repo\projects\RendaFixaPro\tests\RendaFixaPro.Tests\bin\Debug\net8.0\Microsoft.Practices.ServiceLocation.dll
 D:\repo\projects\RendaFixaPro\tests\RendaFixaPro.Tests\bin\Debug\net8.0\FluentValidation.dll
 D:\repo\projects\RendaFixaPro\tests\RendaFixaPro.Tests\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
 D:\repo\projects\RendaFixaPro\tests\RendaFixaPro.Tests\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
@@ -168,15 +166,11 @@ D:\repo\projects\RendaFixaPro\tests\RendaFixaPro.Tests\bin\Debug\net8.0\Microsof
 D:\repo\projects\RendaFixaPro\tests\RendaFixaPro.Tests\bin\Debug\net8.0\Microsoft.TestPlatform.CrossPlatEngine.dll
 D:\repo\projects\RendaFixaPro\tests\RendaFixaPro.Tests\bin\Debug\net8.0\Microsoft.TestPlatform.Utilities.dll
 D:\repo\projects\RendaFixaPro\tests\RendaFixaPro.Tests\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.Common.dll
-D:\repo\projects\RendaFixaPro\tests\RendaFixaPro.Tests\bin\Debug\net8.0\Moq.dll
 D:\repo\projects\RendaFixaPro\tests\RendaFixaPro.Tests\bin\Debug\net8.0\Newtonsoft.Json.dll
 D:\repo\projects\RendaFixaPro\tests\RendaFixaPro.Tests\bin\Debug\net8.0\NuGet.Frameworks.dll
 D:\repo\projects\RendaFixaPro\tests\RendaFixaPro.Tests\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
 D:\repo\projects\RendaFixaPro\tests\RendaFixaPro.Tests\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 D:\repo\projects\RendaFixaPro\tests\RendaFixaPro.Tests\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-D:\repo\projects\RendaFixaPro\tests\RendaFixaPro.Tests\bin\Debug\net8.0\Microsoft.Practices.Unity.Configuration.dll
-D:\repo\projects\RendaFixaPro\tests\RendaFixaPro.Tests\bin\Debug\net8.0\Microsoft.Practices.Unity.RegistrationByConvention.dll
-D:\repo\projects\RendaFixaPro\tests\RendaFixaPro.Tests\bin\Debug\net8.0\Microsoft.Practices.Unity.dll
 D:\repo\projects\RendaFixaPro\tests\RendaFixaPro.Tests\bin\Debug\net8.0\xunit.abstractions.dll
 D:\repo\projects\RendaFixaPro\tests\RendaFixaPro.Tests\bin\Debug\net8.0\xunit.assert.dll
 D:\repo\projects\RendaFixaPro\tests\RendaFixaPro.Tests\bin\Debug\net8.0\xunit.core.dll

@@ -7,7 +7,7 @@ public class CdbInvestmentApplication : IInvestmentApplication
     private const decimal Cdi = 0.009m; // 0.9%
     private const decimal Tb = 1.08m; // 108%
 
-    public decimal CalculateFinalValue(InvestmentDataDto investmentDataDto)
+    public (decimal GrossValue, decimal NetValue) CalculateFinalValue(InvestmentDataDto investmentDataDto)
     {
         var finalValue = investmentDataDto.InitialValue;
         for (var i = 0; i < investmentDataDto.Months; i++)
@@ -18,7 +18,9 @@ public class CdbInvestmentApplication : IInvestmentApplication
         var taxRate = GetTaxRate(investmentDataDto.Months);
         var profit = finalValue - investmentDataDto.InitialValue;
         var tax = profit * taxRate;
-        return finalValue - tax;
+        var netValue = finalValue - tax;
+
+        return (finalValue, netValue);
     }
 
     private static decimal GetTaxRate(int months)

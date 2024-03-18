@@ -2,32 +2,6 @@
   "version": 3,
   "targets": {
     "net8.0": {
-      "AutoMoq/2.0.0": {
-        "type": "package",
-        "dependencies": {
-          "Moq": "(4.0.0, )",
-          "Unity": "(4.0.0, )"
-        },
-        "compile": {
-          "lib/net45/AutoMoq.dll": {}
-        },
-        "runtime": {
-          "lib/net45/AutoMoq.dll": {}
-        }
-      },
-      "CommonServiceLocator/1.3.0": {
-        "type": "package",
-        "compile": {
-          "lib/portable-net4+sl5+netcore45+wpa81+wp8/Microsoft.Practices.ServiceLocation.dll": {
-            "related": ".pdb;.XML"
-          }
-        },
-        "runtime": {
-          "lib/portable-net4+sl5+netcore45+wpa81+wp8/Microsoft.Practices.ServiceLocation.dll": {
-            "related": ".pdb;.XML"
-          }
-        }
-      },
       "coverlet.collector/6.0.0": {
         "type": "package",
         "build": {
@@ -471,19 +445,6 @@
         "compile": {
           "ref/netstandard1.3/Microsoft.Win32.Primitives.dll": {
             "related": ".xml"
-          }
-        }
-      },
-      "Moq/4.0.10827": {
-        "type": "package",
-        "compile": {
-          "lib/NET40/Moq.dll": {
-            "related": ".pdb;.xml"
-          }
-        },
-        "runtime": {
-          "lib/NET40/Moq.dll": {
-            "related": ".pdb;.xml"
           }
         }
       },
@@ -1836,34 +1797,6 @@
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
       },
-      "Unity/4.0.1": {
-        "type": "package",
-        "dependencies": {
-          "CommonServiceLocator": "1.3.0"
-        },
-        "compile": {
-          "lib/net45/Microsoft.Practices.Unity.Configuration.dll": {
-            "related": ".XML"
-          },
-          "lib/net45/Microsoft.Practices.Unity.RegistrationByConvention.dll": {
-            "related": ".XML"
-          },
-          "lib/net45/Microsoft.Practices.Unity.dll": {
-            "related": ".Configuration.XML;.RegistrationByConvention.XML;.xml"
-          }
-        },
-        "runtime": {
-          "lib/net45/Microsoft.Practices.Unity.Configuration.dll": {
-            "related": ".XML"
-          },
-          "lib/net45/Microsoft.Practices.Unity.RegistrationByConvention.dll": {
-            "related": ".XML"
-          },
-          "lib/net45/Microsoft.Practices.Unity.dll": {
-            "related": ".Configuration.XML;.RegistrationByConvention.XML;.xml"
-          }
-        }
-      },
       "xunit/2.5.3": {
         "type": "package",
         "dependencies": {
@@ -2025,32 +1958,6 @@
     }
   },
   "libraries": {
-    "AutoMoq/2.0.0": {
-      "sha512": "WqwKRIIt1B+3OyueBa8hZtMO9u3E4ptTzbkHJb/TVDeLDbw55FjYEAopgxCx4cuvZJvq2IXsYyvRoQAAslOzGQ==",
-      "type": "package",
-      "path": "automoq/2.0.0",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "automoq.2.0.0.nupkg.sha512",
-        "automoq.nuspec",
-        "lib/net45/AutoMoq.dll"
-      ]
-    },
-    "CommonServiceLocator/1.3.0": {
-      "sha512": "fbjO0SNwbOFPdwVfyqv+B7gIJ2CVBOFPKqn1mDDECK7KER8jFaOdcvroFYoAHa0ktPbxi5s+15qOLnA96f8GSA==",
-      "type": "package",
-      "path": "commonservicelocator/1.3.0",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "commonservicelocator.1.3.0.nupkg.sha512",
-        "commonservicelocator.nuspec",
-        "lib/portable-net4+sl5+netcore45+wpa81+wp8/Microsoft.Practices.ServiceLocation.XML",
-        "lib/portable-net4+sl5+netcore45+wpa81+wp8/Microsoft.Practices.ServiceLocation.dll",
-        "lib/portable-net4+sl5+netcore45+wpa81+wp8/Microsoft.Practices.ServiceLocation.pdb"
-      ]
-    },
     "coverlet.collector/6.0.0": {
       "sha512": "tW3lsNS+dAEII6YGUX/VMoJjBS1QvsxqJeqLaJXub08y1FSjasFPtQ4UBUsudE9PNrzLjooClMsPtY2cZLdXpQ==",
       "type": "package",
@@ -2814,29 +2721,6 @@
         "ref/xamarinmac20/_._",
         "ref/xamarintvos10/_._",
         "ref/xamarinwatchos10/_._"
-      ]
-    },
-    "Moq/4.0.10827": {
-      "sha512": "MiSRqZ+Dj3mF3I/KSC9uWQZK7G4FgR6eM5/EWSVE3H/x8xu5EMsMaLeZfgGGbu0Difk2nllSsepa8F7ahl/tsg==",
-      "type": "package",
-      "path": "moq/4.0.10827",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "License.txt",
-        "Moq.chm",
-        "lib/NET35/Moq.dll",
-        "lib/NET35/Moq.pdb",
-        "lib/NET35/Moq.xml",
-        "lib/NET40/Moq.dll",
-        "lib/NET40/Moq.pdb",
-        "lib/NET40/Moq.xml",
-        "lib/Silverlight4/Castle.Core.dll",
-        "lib/Silverlight4/Moq.Silverlight.dll",
-        "lib/Silverlight4/Moq.Silverlight.pdb",
-        "lib/Silverlight4/Moq.Silverlight.xml",
-        "moq.4.0.10827.nupkg.sha512",
-        "moq.nuspec"
       ]
     },
     "NETStandard.Library/1.6.1": {
@@ -6184,35 +6068,6 @@
         "system.xml.xdocument.nuspec"
       ]
     },
-    "Unity/4.0.1": {
-      "sha512": "FQxLlryE47Y5xY7wJfToUrwtyLsgNJK0jK6sPfNC3YUsjzSX7ILXLA4EX8zVxFPOaIMTJBXRIKrnQ/lsECLufg==",
-      "type": "package",
-      "path": "unity/4.0.1",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "UnityConfiguration30.xsd",
-        "lib/net45/Microsoft.Practices.Unity.Configuration.XML",
-        "lib/net45/Microsoft.Practices.Unity.Configuration.dll",
-        "lib/net45/Microsoft.Practices.Unity.RegistrationByConvention.XML",
-        "lib/net45/Microsoft.Practices.Unity.RegistrationByConvention.dll",
-        "lib/net45/Microsoft.Practices.Unity.dll",
-        "lib/net45/Microsoft.Practices.Unity.xml",
-        "lib/portable-net45+wp80+win8+wpa81+MonoAndroid10+MonoTouch10/Microsoft.Practices.Unity.dll",
-        "lib/portable-net45+wp80+win8+wpa81+MonoAndroid10+MonoTouch10/Microsoft.Practices.Unity.xml",
-        "lib/win8/Microsoft.Practices.Unity.RegistrationByConvention.XML",
-        "lib/win8/Microsoft.Practices.Unity.RegistrationByConvention.dll",
-        "lib/win8/Microsoft.Practices.Unity.RegistrationByConvention.pri",
-        "lib/win8/Microsoft.Practices.Unity.dll",
-        "lib/win8/Microsoft.Practices.Unity.xml",
-        "lib/wp80/Microsoft.Practices.Unity.RegistrationByConvention.XML",
-        "lib/wp80/Microsoft.Practices.Unity.RegistrationByConvention.dll",
-        "lib/wp80/Microsoft.Practices.Unity.dll",
-        "lib/wp80/Microsoft.Practices.Unity.xml",
-        "unity.4.0.1.nupkg.sha512",
-        "unity.nuspec"
-      ]
-    },
     "xunit/2.5.3": {
       "sha512": "VxYDiWSwrLxOJ3UEN+ZPrBybB0SFShQ1E6PjT65VdoKCJhorgerFznThjSwawRH/WAip73YnucDVsE8WRj/8KQ==",
       "type": "package",
@@ -6378,7 +6233,6 @@
   },
   "projectFileDependencyGroups": {
     "net8.0": [
-      "AutoMoq >= 2.0.0",
       "FluentValidation >= 11.9.0",
       "Microsoft.NET.Test.Sdk >= 17.8.0",
       "RendaFixaPro.Api >= 1.0.0",
@@ -6439,10 +6293,6 @@
       "net8.0": {
         "targetAlias": "net8.0",
         "dependencies": {
-          "AutoMoq": {
-            "target": "Package",
-            "version": "[2.0.0, )"
-          },
           "FluentValidation": {
             "target": "Package",
             "version": "[11.9.0, )"
@@ -6483,67 +6333,5 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1602",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "AutoMoq 2.0.0 does not provide an inclusive lower bound for dependency Moq (> 4.0.0). An approximate best match of Moq 4.0.10827 was resolved.",
-      "libraryId": "Moq",
-      "targetGraphs": [
-        "net8.0"
-      ]
-    },
-    {
-      "code": "NU1602",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "AutoMoq 2.0.0 does not provide an inclusive lower bound for dependency Unity (> 4.0.0). An approximate best match of Unity 4.0.1 was resolved.",
-      "libraryId": "Unity",
-      "targetGraphs": [
-        "net8.0"
-      ]
-    },
-    {
-      "code": "NU1701",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Package 'AutoMoq 2.0.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0'. This package may not be fully compatible with your project.",
-      "libraryId": "AutoMoq",
-      "targetGraphs": [
-        "net8.0"
-      ]
-    },
-    {
-      "code": "NU1701",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Package 'CommonServiceLocator 1.3.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0'. This package may not be fully compatible with your project.",
-      "libraryId": "CommonServiceLocator",
-      "targetGraphs": [
-        "net8.0"
-      ]
-    },
-    {
-      "code": "NU1701",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Package 'Moq 4.0.10827' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0'. This package may not be fully compatible with your project.",
-      "libraryId": "Moq",
-      "targetGraphs": [
-        "net8.0"
-      ]
-    },
-    {
-      "code": "NU1701",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Package 'Unity 4.0.1' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0'. This package may not be fully compatible with your project.",
-      "libraryId": "Unity",
-      "targetGraphs": [
-        "net8.0"
-      ]
-    }
-  ]
+  }
 }

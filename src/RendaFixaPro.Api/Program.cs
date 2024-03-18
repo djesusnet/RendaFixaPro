@@ -49,8 +49,8 @@ app.MapGet("/investments/calculate/cbd", (decimal initialValue, int months, IVal
             return Results.BadRequest(validationResult.Errors.Select(e => e.ErrorMessage));
 
         var calculator = calculatorFactory.CreateCalculator(InvestmentType.Cdb);
-        var finalValue = calculator.CalculateFinalValue(investmentData);
-        return Results.Ok(new { FinalValue = finalValue });
+        (decimal GrossValue, decimal NetValue) = calculator.CalculateFinalValue(investmentData);
+        return Results.Ok(new { GrossValue = GrossValue, NetValue = NetValue });
     }
     catch (NotImplementedException)
     {
