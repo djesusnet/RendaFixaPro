@@ -1,4 +1,5 @@
-﻿namespace RendaFixaPro.Tests.Validators;
+﻿
+namespace RendaFixaPro.Tests.Validators;
 
 public class InvestmentDataValidatorTests
 {
@@ -29,19 +30,21 @@ public class InvestmentDataValidatorTests
     }
 
     [Theory]
+    [InlineData(1)] // 1 agora é considerado fora do intervalo válido.
     [InlineData(0)]
-    [InlineData(13)]
-    public void Months_OutOfRange_ShouldHaveValidationError(int months)
+    [InlineData(-1)]
+    public void Months_LessThanOrEqualToOne_ShouldHaveValidationError(int months)
     {
         var model = new InvestmentDataDto { Months = months };
         var result = _validator.TestValidate(model);
-        result.ShouldHaveValidationErrorFor(investmentData => investmentData.Months);
+        result.ShouldHaveValidationErrorFor(investmentData => investmentData.Months)
+              .WithErrorMessage("Months must be greater than 1");
     }
 
     [Theory]
-    [InlineData(1)]
+    [InlineData(2)]
     [InlineData(12)]
-    public void Months_WithinRange_ShouldNotHaveValidationError(int months)
+    public void Months_GreaterThanOne_ShouldNotHaveValidationError(int months)
     {
         var model = new InvestmentDataDto { Months = months };
         var result = _validator.TestValidate(model);
