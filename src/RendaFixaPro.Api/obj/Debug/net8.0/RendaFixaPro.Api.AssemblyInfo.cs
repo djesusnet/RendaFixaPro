@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RendaFixaPro.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9dd4b1b370d349c8b54a941a187ec36c54ff907e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+85c717fe589caa5e3f3d7922eebd52c1b5eda136")]
 [assembly: System.Reflection.AssemblyProductAttribute("RendaFixaPro.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RendaFixaPro.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
