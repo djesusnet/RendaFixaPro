@@ -7419,11 +7419,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\djesu\\RiderProjects\\RendaFixaPro\\tests\\RendaFixaPro.Tests\\RendaFixaPro.Tests.csproj",
+      "projectUniqueName": "D:\\repo\\projects\\RendaFixaPro\\tests\\RendaFixaPro.Tests\\RendaFixaPro.Tests.csproj",
       "projectName": "RendaFixaPro.Tests",
-      "projectPath": "C:\\Users\\djesu\\RiderProjects\\RendaFixaPro\\tests\\RendaFixaPro.Tests\\RendaFixaPro.Tests.csproj",
+      "projectPath": "D:\\repo\\projects\\RendaFixaPro\\tests\\RendaFixaPro.Tests\\RendaFixaPro.Tests.csproj",
       "packagesPath": "C:\\Users\\djesu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\djesu\\RiderProjects\\RendaFixaPro\\tests\\RendaFixaPro.Tests\\obj\\",
+      "outputPath": "D:\\repo\\projects\\RendaFixaPro\\tests\\RendaFixaPro.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\djesu\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -7440,11 +7440,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\djesu\\RiderProjects\\RendaFixaPro\\src\\RendaFixaPro.Api\\RendaFixaPro.Api.csproj": {
-              "projectPath": "C:\\Users\\djesu\\RiderProjects\\RendaFixaPro\\src\\RendaFixaPro.Api\\RendaFixaPro.Api.csproj"
+            "D:\\repo\\projects\\RendaFixaPro\\src\\RendaFixaPro.Api\\RendaFixaPro.Api.csproj": {
+              "projectPath": "D:\\repo\\projects\\RendaFixaPro\\src\\RendaFixaPro.Api\\RendaFixaPro.Api.csproj"
             },
-            "C:\\Users\\djesu\\RiderProjects\\RendaFixaPro\\src\\RendaFixaPro.Application\\RendaFixaPro.Application.csproj": {
-              "projectPath": "C:\\Users\\djesu\\RiderProjects\\RendaFixaPro\\src\\RendaFixaPro.Application\\RendaFixaPro.Application.csproj"
+            "D:\\repo\\projects\\RendaFixaPro\\src\\RendaFixaPro.Application\\RendaFixaPro.Application.csproj": {
+              "projectPath": "D:\\repo\\projects\\RendaFixaPro\\src\\RendaFixaPro.Application\\RendaFixaPro.Application.csproj"
             }
           }
         }
@@ -7504,26 +7504,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[8.0.1, 8.0.1]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Ref",
-            "version": "[8.0.1, 8.0.1]"
-          },
-          {
-            "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[8.0.1, 8.0.1]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100-preview.1.24101.2/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
       }
     }
   },
@@ -7539,21 +7525,21 @@
       ]
     },
     {
-      "code": "NU1603",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Castle.Core 4.0.0 depends on System.ComponentModel.TypeConverter (>= 4.0.1) but System.ComponentModel.TypeConverter 4.0.1 was not found. An approximate best match of System.ComponentModel.TypeConverter 4.1.0 was resolved.",
-      "libraryId": "System.ComponentModel.TypeConverter",
-      "targetGraphs": [
-        "net8.0"
-      ]
-    },
-    {
       "code": "NU1602",
       "level": "Warning",
       "warningLevel": 1,
       "message": "AutoMoq 2.0.0 does not provide an inclusive lower bound for dependency Unity (> 4.0.0). An approximate best match of Unity 4.0.1 was resolved.",
       "libraryId": "Unity",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Castle.Core 4.0.0 depends on System.ComponentModel.TypeConverter (>= 4.0.1) but System.ComponentModel.TypeConverter 4.0.1 was not found. An approximate best match of System.ComponentModel.TypeConverter 4.1.0 was resolved.",
+      "libraryId": "System.ComponentModel.TypeConverter",
       "targetGraphs": [
         "net8.0"
       ]

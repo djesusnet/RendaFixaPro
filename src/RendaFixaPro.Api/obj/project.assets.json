@@ -728,11 +728,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\djesu\\RiderProjects\\RendaFixaPro\\src\\RendaFixaPro.Api\\RendaFixaPro.Api.csproj",
+      "projectUniqueName": "D:\\repo\\projects\\RendaFixaPro\\src\\RendaFixaPro.Api\\RendaFixaPro.Api.csproj",
       "projectName": "RendaFixaPro.Api",
-      "projectPath": "C:\\Users\\djesu\\RiderProjects\\RendaFixaPro\\src\\RendaFixaPro.Api\\RendaFixaPro.Api.csproj",
+      "projectPath": "D:\\repo\\projects\\RendaFixaPro\\src\\RendaFixaPro.Api\\RendaFixaPro.Api.csproj",
       "packagesPath": "C:\\Users\\djesu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\djesu\\RiderProjects\\RendaFixaPro\\src\\RendaFixaPro.Api\\obj\\",
+      "outputPath": "D:\\repo\\projects\\RendaFixaPro\\src\\RendaFixaPro.Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\djesu\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -749,11 +749,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\djesu\\RiderProjects\\RendaFixaPro\\src\\RendaFixaPro.Application\\RendaFixaPro.Application.csproj": {
-              "projectPath": "C:\\Users\\djesu\\RiderProjects\\RendaFixaPro\\src\\RendaFixaPro.Application\\RendaFixaPro.Application.csproj"
+            "D:\\repo\\projects\\RendaFixaPro\\src\\RendaFixaPro.Application\\RendaFixaPro.Application.csproj": {
+              "projectPath": "D:\\repo\\projects\\RendaFixaPro\\src\\RendaFixaPro.Application\\RendaFixaPro.Application.csproj"
             },
-            "C:\\Users\\djesu\\RiderProjects\\RendaFixaPro\\src\\RendaFixaPro.Infrastructure\\RendaFixaPro.Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\djesu\\RiderProjects\\RendaFixaPro\\src\\RendaFixaPro.Infrastructure\\RendaFixaPro.Infrastructure.csproj"
+            "D:\\repo\\projects\\RendaFixaPro\\src\\RendaFixaPro.Infrastructure\\RendaFixaPro.Infrastructure.csproj": {
+              "projectPath": "D:\\repo\\projects\\RendaFixaPro\\src\\RendaFixaPro.Infrastructure\\RendaFixaPro.Infrastructure.csproj"
             }
           }
         }
@@ -797,24 +797,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[8.0.1, 8.0.1]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[8.0.1, 8.0.1]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Ref",
-            "version": "[8.0.1, 8.0.1]"
-          },
-          {
-            "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[8.0.1, 8.0.1]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -823,7 +805,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100-preview.1.24101.2/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
