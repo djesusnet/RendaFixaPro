@@ -1,0 +1,21 @@
+<form (submit)="calculateInvestment()">
+    <div>
+      <label for="initialValue">Initial Value:</label>
+      <input type="number" id="initialValue" [(ngModel)]="initialValue" name="initialValue">
+    </div>
+    <div>
+      <label for="months">Months:</label>
+      <input type="number" id="months" [(ngModel)]="months" name="months">
+    </div>
+    <button type="submit">Calculate Investment</button>
+  </form>
+ <div *ngIf="errorMessages.length > 0" class="error-messages">
+    <ul>
+      <li *ngFor="let message of errorMessages">{{ message }}</li>
+    </ul>
+  </div>
+  
+  <div *ngIf="investmentResult">
+    Resultado: {{ investmentResult | json }}
+  </div>
+  
