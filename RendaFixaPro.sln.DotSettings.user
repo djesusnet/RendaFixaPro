@@ -1,7 +1,0 @@
-﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=ddd69b94_002D3b21_002D4d23_002Dbed4_002Db4a88f6af421/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="CdbInvestmentApplicationTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
-  &lt;TestAncestor&gt;&#xD;
-    &lt;TestId&gt;xUnit::308CADF7-8C2D-4446-8ECA-F9DDC06B4440::net8.0::RendaFixaPro.Tests.Application.CdbInvestmentApplicationTests&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;xUnit::308CADF7-8C2D-4446-8ECA-F9DDC06B4440::net8.0::RendaFixaPro.Tests.Validators.InvestmentDataValidatorTests&lt;/TestId&gt;&#xD;
-  &lt;/TestAncestor&gt;&#xD;
-&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
