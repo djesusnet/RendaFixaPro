@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "xs0FGmvOnDXvsZP8FHSz1MP5dx8Y4Cble3ZY48iwW2SotKIT9OXRFs5dM3H+UKuovTxGd43qhU52O/IQK2WzFA==",
+  "dgSpecHash": "Or9DcYkyhsN+9b1hSyYiN34Ew200EZz5WkQWamouFSiQAUmyWzxbPwfXyCrSv9kPgOI5J0eivalrsMR4waTPTA==",
   "success": true,
   "projectFilePath": "D:\\repo\\projects\\RendaFixaPro\\tests\\RendaFixaPro.Tests\\RendaFixaPro.Tests.csproj",
   "expectedPackageFiles": [
@@ -123,10 +123,7 @@
     "C:\\Users\\djesu\\.nuget\\packages\\xunit.core\\2.5.3\\xunit.core.2.5.3.nupkg.sha512",
     "C:\\Users\\djesu\\.nuget\\packages\\xunit.extensibility.core\\2.5.3\\xunit.extensibility.core.2.5.3.nupkg.sha512",
     "C:\\Users\\djesu\\.nuget\\packages\\xunit.extensibility.execution\\2.5.3\\xunit.extensibility.execution.2.5.3.nupkg.sha512",
-    "C:\\Users\\djesu\\.nuget\\packages\\xunit.runner.visualstudio\\2.5.3\\xunit.runner.visualstudio.2.5.3.nupkg.sha512",
-    "C:\\Users\\djesu\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.1\\microsoft.netcore.app.ref.8.0.1.nupkg.sha512",
-    "C:\\Users\\djesu\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.1\\microsoft.windowsdesktop.app.ref.8.0.1.nupkg.sha512",
-    "C:\\Users\\djesu\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.1\\microsoft.aspnetcore.app.ref.8.0.1.nupkg.sha512"
+    "C:\\Users\\djesu\\.nuget\\packages\\xunit.runner.visualstudio\\2.5.3\\xunit.runner.visualstudio.2.5.3.nupkg.sha512"
   ],
   "logs": [
     {
@@ -140,21 +137,21 @@
       ]
     },
     {
-      "code": "NU1603",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Castle.Core 4.0.0 depends on System.ComponentModel.TypeConverter (>= 4.0.1) but System.ComponentModel.TypeConverter 4.0.1 was not found. An approximate best match of System.ComponentModel.TypeConverter 4.1.0 was resolved.",
-      "libraryId": "System.ComponentModel.TypeConverter",
-      "targetGraphs": [
-        "net8.0"
-      ]
-    },
-    {
       "code": "NU1602",
       "level": "Warning",
       "warningLevel": 1,
       "message": "AutoMoq 2.0.0 does not provide an inclusive lower bound for dependency Unity (> 4.0.0). An approximate best match of Unity 4.0.1 was resolved.",
       "libraryId": "Unity",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Castle.Core 4.0.0 depends on System.ComponentModel.TypeConverter (>= 4.0.1) but System.ComponentModel.TypeConverter 4.0.1 was not found. An approximate best match of System.ComponentModel.TypeConverter 4.1.0 was resolved.",
+      "libraryId": "System.ComponentModel.TypeConverter",
       "targetGraphs": [
         "net8.0"
       ]

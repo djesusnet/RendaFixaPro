@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "X0ZTSeQiw1/75pwiE9cdPJ3yQCsKvUavaGU4lFriZPY00AJNCQa9YRvUFa8dwvKzwQ14rvngdzYOrPkwJ7oHMA==",
+  "dgSpecHash": "qkPaZYJlBAWbM5FTpQ+ikIe27/ixC9hBnMTZr20RJRndQQgsDq+icvGvG7fuE8iu9RiNsGfpn/RmbxVDKwnjjQ==",
   "success": true,
   "projectFilePath": "D:\\repo\\projects\\RendaFixaPro\\src\\RendaFixaPro.Api\\RendaFixaPro.Api.csproj",
   "expectedPackageFiles": [
@@ -15,11 +15,7 @@
     "C:\\Users\\djesu\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
     "C:\\Users\\djesu\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
     "C:\\Users\\djesu\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
-    "C:\\Users\\djesu\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512",
-    "C:\\Users\\djesu\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.1\\microsoft.netcore.app.ref.8.0.1.nupkg.sha512",
-    "C:\\Users\\djesu\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.1\\microsoft.windowsdesktop.app.ref.8.0.1.nupkg.sha512",
-    "C:\\Users\\djesu\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.1\\microsoft.aspnetcore.app.ref.8.0.1.nupkg.sha512",
-    "C:\\Users\\djesu\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.1\\microsoft.netcore.app.host.win-x64.8.0.1.nupkg.sha512"
+    "C:\\Users\\djesu\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
   ],
   "logs": []
 }
