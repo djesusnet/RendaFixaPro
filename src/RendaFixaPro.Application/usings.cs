@@ -1,0 +1,1 @@
+﻿global using RendaFixaPro.Application.Interfaces;

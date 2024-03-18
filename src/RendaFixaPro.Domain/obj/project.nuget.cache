@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "VfBboQECTM8zJzWWB3/fzWH2frfkFQ/u51aSPLhl8bW7qQ/WwDrsN3ASd1Biz9ifvSepLnL5AkIpCZTIU1PyiQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\djesu\\RiderProjects\\RendaFixaPro\\src\\RendaFixaPro.Domain\\RendaFixaPro.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\djesu\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.1\\microsoft.netcore.app.ref.8.0.1.nupkg.sha512",
+    "C:\\Users\\djesu\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.1\\microsoft.windowsdesktop.app.ref.8.0.1.nupkg.sha512",
+    "C:\\Users\\djesu\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.1\\microsoft.aspnetcore.app.ref.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

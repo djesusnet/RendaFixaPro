@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "WatUw65n2oSQUd0kj/vdfeRnH1w8fgOgnkg/OXOVz6m2/OYc8u2yQeWmhJo130tWf2hiD5qK7IpC5EAvJmuI+Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\djesu\\RiderProjects\\RendaFixaPro\\src\\RendaFixaPro.Infrastructure\\RendaFixaPro.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\djesu\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\djesu\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\djesu\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.1\\microsoft.netcore.app.ref.8.0.1.nupkg.sha512",
+    "C:\\Users\\djesu\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.1\\microsoft.windowsdesktop.app.ref.8.0.1.nupkg.sha512",
+    "C:\\Users\\djesu\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.1\\microsoft.aspnetcore.app.ref.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

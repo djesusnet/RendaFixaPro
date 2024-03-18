@@ -1,0 +1,15 @@
+C:\Users\djesu\RiderProjects\RendaFixaPro\src\RendaFixaPro.Application\bin\Debug\net8.0\RendaFixaPro.Application.deps.json
+C:\Users\djesu\RiderProjects\RendaFixaPro\src\RendaFixaPro.Application\bin\Debug\net8.0\RendaFixaPro.Application.dll
+C:\Users\djesu\RiderProjects\RendaFixaPro\src\RendaFixaPro.Application\bin\Debug\net8.0\RendaFixaPro.Application.pdb
+C:\Users\djesu\RiderProjects\RendaFixaPro\src\RendaFixaPro.Application\bin\Debug\net8.0\RendaFixaPro.Domain.dll
+C:\Users\djesu\RiderProjects\RendaFixaPro\src\RendaFixaPro.Application\bin\Debug\net8.0\RendaFixaPro.Domain.pdb
+C:\Users\djesu\RiderProjects\RendaFixaPro\src\RendaFixaPro.Application\obj\Debug\net8.0\RendaFixaPro.Application.csproj.AssemblyReference.cache
+C:\Users\djesu\RiderProjects\RendaFixaPro\src\RendaFixaPro.Application\obj\Debug\net8.0\RendaFixaPro.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\djesu\RiderProjects\RendaFixaPro\src\RendaFixaPro.Application\obj\Debug\net8.0\RendaFixaPro.Application.AssemblyInfoInputs.cache
+C:\Users\djesu\RiderProjects\RendaFixaPro\src\RendaFixaPro.Application\obj\Debug\net8.0\RendaFixaPro.Application.AssemblyInfo.cs
+C:\Users\djesu\RiderProjects\RendaFixaPro\src\RendaFixaPro.Application\obj\Debug\net8.0\RendaFixaPro.Application.csproj.CoreCompileInputs.cache
+C:\Users\djesu\RiderProjects\RendaFixaPro\src\RendaFixaPro.Application\obj\Debug\net8.0\RendaFix.8B8998DF.Up2Date
+C:\Users\djesu\RiderProjects\RendaFixaPro\src\RendaFixaPro.Application\obj\Debug\net8.0\RendaFixaPro.Application.dll
+C:\Users\djesu\RiderProjects\RendaFixaPro\src\RendaFixaPro.Application\obj\Debug\net8.0\refint\RendaFixaPro.Application.dll
+C:\Users\djesu\RiderProjects\RendaFixaPro\src\RendaFixaPro.Application\obj\Debug\net8.0\RendaFixaPro.Application.pdb
+C:\Users\djesu\RiderProjects\RendaFixaPro\src\RendaFixaPro.Application\obj\Debug\net8.0\ref\RendaFixaPro.Application.dll

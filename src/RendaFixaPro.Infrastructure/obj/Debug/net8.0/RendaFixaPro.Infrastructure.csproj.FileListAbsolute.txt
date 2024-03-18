@@ -1,0 +1,17 @@
+C:\Users\djesu\RiderProjects\RendaFixaPro\src\RendaFixaPro.Infrastructure\bin\Debug\net8.0\RendaFixaPro.Infrastructure.deps.json
+C:\Users\djesu\RiderProjects\RendaFixaPro\src\RendaFixaPro.Infrastructure\bin\Debug\net8.0\RendaFixaPro.Infrastructure.dll
+C:\Users\djesu\RiderProjects\RendaFixaPro\src\RendaFixaPro.Infrastructure\bin\Debug\net8.0\RendaFixaPro.Infrastructure.pdb
+C:\Users\djesu\RiderProjects\RendaFixaPro\src\RendaFixaPro.Infrastructure\bin\Debug\net8.0\RendaFixaPro.Application.dll
+C:\Users\djesu\RiderProjects\RendaFixaPro\src\RendaFixaPro.Infrastructure\bin\Debug\net8.0\RendaFixaPro.Domain.dll
+C:\Users\djesu\RiderProjects\RendaFixaPro\src\RendaFixaPro.Infrastructure\bin\Debug\net8.0\RendaFixaPro.Application.pdb
+C:\Users\djesu\RiderProjects\RendaFixaPro\src\RendaFixaPro.Infrastructure\bin\Debug\net8.0\RendaFixaPro.Domain.pdb
+C:\Users\djesu\RiderProjects\RendaFixaPro\src\RendaFixaPro.Infrastructure\obj\Debug\net8.0\RendaFixaPro.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\djesu\RiderProjects\RendaFixaPro\src\RendaFixaPro.Infrastructure\obj\Debug\net8.0\RendaFixaPro.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\djesu\RiderProjects\RendaFixaPro\src\RendaFixaPro.Infrastructure\obj\Debug\net8.0\RendaFixaPro.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\djesu\RiderProjects\RendaFixaPro\src\RendaFixaPro.Infrastructure\obj\Debug\net8.0\RendaFixaPro.Infrastructure.AssemblyInfo.cs
+C:\Users\djesu\RiderProjects\RendaFixaPro\src\RendaFixaPro.Infrastructure\obj\Debug\net8.0\RendaFixaPro.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\djesu\RiderProjects\RendaFixaPro\src\RendaFixaPro.Infrastructure\obj\Debug\net8.0\RendaFix.90E1889F.Up2Date
+C:\Users\djesu\RiderProjects\RendaFixaPro\src\RendaFixaPro.Infrastructure\obj\Debug\net8.0\RendaFixaPro.Infrastructure.dll
+C:\Users\djesu\RiderProjects\RendaFixaPro\src\RendaFixaPro.Infrastructure\obj\Debug\net8.0\refint\RendaFixaPro.Infrastructure.dll
+C:\Users\djesu\RiderProjects\RendaFixaPro\src\RendaFixaPro.Infrastructure\obj\Debug\net8.0\RendaFixaPro.Infrastructure.pdb
+C:\Users\djesu\RiderProjects\RendaFixaPro\src\RendaFixaPro.Infrastructure\obj\Debug\net8.0\ref\RendaFixaPro.Infrastructure.dll

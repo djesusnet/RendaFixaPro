@@ -1,0 +1,6 @@
+@RendaFixaPro.Api_HostAddress = http://localhost:5294
+
+GET {{RendaFixaPro.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
